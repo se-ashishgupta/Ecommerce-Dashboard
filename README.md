@@ -9,7 +9,7 @@
 ![](UI/UI7.png)
 
 Ecommerce DashBoard - Using React + Vite.
-[Live Demo](https://ecommerce-dashboard.vercel.app)
+[Live Demo](https://ecommerce-dashboard-flax.vercel.app)
 
 ## Tech Stack
 
