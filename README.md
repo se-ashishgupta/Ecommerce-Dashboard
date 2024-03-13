@@ -1,8 +1,40 @@
-# React + Vite
+# Ecommerce DashBoard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![](UI/UI1.png)
+![](UI/UI2.png)
+![](UI/UI3.png)
+![](UI/UI4.png)
+![](UI/UI5.png)
+![](UI/UI6.png)
+![](UI/UI7.png)
 
-Currently, two official plugins are available:
+Ecommerce DashBoard - Using React + Vite.
+[Live Demo](https://ecommerce-dashboard.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+**React, React-Router-Dom, JavaScript, Tailwind, React-Icons, SCSS, CSS**
+
+## Features
+
+- **Architected an innovative Ecommerce Dashboard platform featuring a Porduct Management, Stats, Order Management and diverse Product**
+- **Responsive Design**
+- **Light Mode and Dark Mode Functionality**
+
+## Getting Started
+
+First you need clone this project.
+
+```bash
+git clone https://github.com/se-ashishgupta/Ecommerce-Dashboard.git
+```
+
+Now run the project..
+
+** Client **
+
+```bash
+cd Ecommerce-Dashboard
+npm install
+npm start
+```
