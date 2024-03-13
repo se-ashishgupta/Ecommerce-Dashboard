@@ -1,0 +1,56 @@
+canvas {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.canvas1-container {
+  background: linear-gradient(195deg, rgb(73, 163, 241), rgb(26, 115, 232));
+  border: none;
+  margin-top: -80px;
+  border-radius: 10px;
+}
+
+.canvas2-container {
+  background: linear-gradient(195deg, rgb(102, 187, 106), rgb(67, 160, 71));
+  border: none;
+  border-radius: 10px;
+
+  margin-top: -80px;
+  border-radius: 10px;
+}
+
+.canvas3-container {
+  background: linear-gradient(25deg, rgb(66, 66, 74), rgb(25, 25, 25));
+  border: none;
+  border-radius: 10px;
+  margin-top: -80px;
+  border-radius: 10px;
+}
+
+.name-style {
+  margin: 0px 0px 0px 8px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.02857em;
+  line-height: 1;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  text-decoration: none;
+  color: rgb(52, 71, 103);
+  font-weight: 700;
+}
+
+.assigned-style {
+  margin: 0px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.25;
+  letter-spacing: 0.03333em;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  text-decoration: none;
+  color: rgb(123, 128, 154);
+  font-weight: 600;
+}
